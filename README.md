@@ -1,4 +1,4 @@
-# 🏠 Austin Housing Affordability Analysis
+# Austin Housing Affordability Analysis
 
 An analysis of rent burden across census tracts in Travis County, Texas using 2022 American Community Survey (ACS) data from the U.S. Census Bureau.
 
